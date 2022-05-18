@@ -1,4 +1,4 @@
-#Como foi na prática a primeira semana
+# Como foi na prática a primeira semana
 
 A primeira semana foi destinada a limpeza dos dados, com o compartilhamento das atividades via Trello com a visão Kanban. 
 
