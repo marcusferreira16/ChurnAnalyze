@@ -10,4 +10,4 @@ No começo do desafio, também fomos brifados do andamento que se daria ele. Div
 - Semana 3: construção de um modelo de machine learning de acordo com nosso grupo controle;
 - Semana 4: Término do desafio e documentação no Github.
 
-A base de dados inicial, bem como o dicionário das colunas podem ser encontrados no arquivo "XXX"
+A base de dados inicial, bem como o dicionário das colunas podem ser encontrados no arquivo "arquivos iniciais"
